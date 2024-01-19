@@ -16,6 +16,7 @@ Video Link - https://youtu.be/T6Mu-lk_kgM
 ### Prerequisites
 - Node.js
 - MySQL
+- XAMPP
 
 ### Setup
 1. Clone the repository:
